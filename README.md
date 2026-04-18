@@ -3,6 +3,8 @@ So I basically came back after 7 hours just to fix a broken bridge in the update
 I waited and kept an eye out for two years, hoping someone would fix it. I joined dozens of different Discord servers and various Witcher modding communities, but no one ever released an update — even after my tearful pleas. I tried everything and everyone.
 
 So as a programmer, I decided to just do it myself. I learned modding and figured out how to decrypt metadata and the .bob files inside the mod.
+
+
 Before
 ![Temple Island](https://i.imgur.com/FXTIjgN.png)
 After
