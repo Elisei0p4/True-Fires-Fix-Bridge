@@ -9,7 +9,6 @@ Before
 ![Temple Island](https://i.imgur.com/FXTIjgN.png)
 After
 ![Temple Island](https://i.imgur.com/UWCdZEt.png)
-![Temple Island](https://i.imgur.com/5ZEaPHl.png)
 
 
 It took me two months of studying (there are basically no guides anywhere on the internet), and through pure trial and error I managed to learn how to do it. So that you don't have to go through that pain, I took it upon myself to learn how to unarchive and modify mods to my liking.
@@ -17,3 +16,5 @@ It took me two months of studying (there are basically no guides anywhere on the
 Now I know how to merge mods to get around the limits (around 150 mods with metadata and files — mods that have .ws script files aren't limited the same way, by the way). If anyone needs help — hit me up on Telegram: @OJBuda1337. I'll help merge your mods if you're stuck or if you've also hit the limit like I did.
 
 I'll help as much as I can. Oh right — the mod. I fixed it, and now it works perfectly. Cheers.
+
+![Temple Island](https://i.imgur.com/5ZEaPHl.png)
